@@ -34,7 +34,7 @@ class MainMobile extends StatelessWidget {
             },
             blendMode: BlendMode.srcATop,
             child: Image.asset(
-              "assets/my_flutter_avatar.png",
+              "assets/cat_meme.jpeg",
               width: screenWidth,
             ),
           ),
